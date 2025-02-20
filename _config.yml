@@ -1,7 +1,7 @@
-title: Tristan McKinnon's Professional Landing Page
+title: Tristan McKinnon's Digital Portfolio
 email: tristan@tlmckconsulting.com
 description: >- 
-  This is the professional landing page of Tristan McKinnon, a data engineer, data leader, and data science educator.
+  This is the digital portfolio of Tristan McKinnon, a data engineer, data leader, and data science educator.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://tr9800a.github.io" # the base hostname & protocol for your site
 
@@ -9,3 +9,18 @@ theme: jekyll-theme-cayman
 
 # Build settings
 markdown: kramdown
+
+# Exclude the Gemfile and node_modules from being processed
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - vendor
+  - node_modules
+
+# Custom CSS and JS
+sass:
+  style: compressed
+  sass_dir: _sass
+  css_dir: assets/css
+  load_paths:
+    - _sass
