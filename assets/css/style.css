@@ -48,7 +48,7 @@ footer {
 
 /* Parallax effect */
 .parallax {
-    background-image: url('/assets/images/ferns.jpg');
+    background-image: url('/assets/images/ferns-med.jpg');
     height: 500px;
     background-attachment: fixed;
     background-position: center;
