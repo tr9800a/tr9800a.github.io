@@ -37,8 +37,8 @@ Description: [Provide a brief description of the publication and where it was pu
 ---
 
 ## Speaking Engagements
-### Conference 1: [Conference Name]
-Description: [Provide a brief description of the conference and your topic of presentation.]
+### Conference 1: AAAI's 2025 Symposium on Current and Future Varieties of Human-AI Collaboration
+Description: The Symposium focused on varieties of human-AI collaboration – both existing and potential – that reflect the entire space of task-oriented interactions. My presentation discussed the applications of AI in Data Science education to improve equity and engagement while balancing concerns of accountability and bias.
 
 ### Conference 2: [Conference Name]
 Description: [Provide a brief description of the conference and your topic of presentation.]
