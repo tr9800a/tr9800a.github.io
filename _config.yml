@@ -1,0 +1,11 @@
+title: Tristan McKinnon's Professional Landing Page
+email: tristan@tlmckconsulting.com
+description: >- 
+  This is the professional landing page of Tristan McKinnon, a data engineer, data leader, and data science educator.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://tr9800a.github.io" # the base hostname & protocol for your site
+
+theme: jekyll-theme-cayman
+
+# Build settings
+markdown: kramdown
