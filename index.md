@@ -28,7 +28,7 @@ title: Home
 <section>
     <h2>Writing and Publications</h2>
     <h3>LinkedIn</h3>
-    <p>I regularly write articles on LinkedIn, which you can find [here](https://www.linkedin.com/in/tristan-mckinnon/recent-activity/articles/)</p>
+    <p>I regularly write articles on LinkedIn, which you can find <a href="https://www.linkedin.com/in/tristan-mckinnon/recent-activity/articles/">here</a></p>
 </section>
 
 <section>
@@ -39,5 +39,5 @@ title: Home
 
 <section>
     <h2>Contact</h2>
-    <p>Feel free to reach out to me via <a href="mailto:tristan@tlmckconsulting.com">tristan@tlmckconsulting.com</a> or connect with me on [LinkedIn](https://www.linkedin.com/in/tristan-mckinnon).</p>
+    <p>Feel free to reach out to me via <a href="mailto:tristan@tlmckconsulting.com">tristan@tlmckconsulting.com</a> or connect with me on <a href="https://www.linkedin.com/in/tristan-mckinnon">LinkedIn</a>.</p>
 </section>

@@ -8,7 +8,7 @@ body {
 }
 
 header {
-    background-color: #4CAF50;
+    background-color: #5871d5;
     color: white;
     padding: 1rem 0;
     text-align: center;
@@ -44,4 +44,14 @@ footer {
     position: fixed;
     bottom: 0;
     width: 100%;
+}
+
+/* Parallax effect */
+.parallax {
+    background-image: url('/assets/images/ferns.jpg');
+    height: 500px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
