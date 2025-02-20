@@ -53,7 +53,7 @@ footer {
 /* Parallax effect */
 .parallax {
     background-image: url('/assets/images/ferns-med.jpg');
-    height: 500px;
+    height: 3500px;
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
