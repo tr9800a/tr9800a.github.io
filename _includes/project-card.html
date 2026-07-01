@@ -1,0 +1,10 @@
+<article class="card project-card">
+  <h3 class="card__title">{{ include.project.title }}</h3>
+  <p class="card__summary">{{ include.project.summary }}</p>
+  {% if include.project.tags %}
+  <ul class="card__tags">
+    {% for tag in include.project.tags %}<li>{{ tag }}</li>{% endfor %}
+  </ul>
+  {% endif %}
+  <a class="card__link" href="{{ include.project.repo_url }}" target="_blank" rel="noopener">View on GitHub →</a>
+</article>
