@@ -1,21 +1,20 @@
 title: Tristan McKinnon's Digital Portfolio
 email: tristan@tlmckconsulting.com
-description: >- 
+description: >-
   This is the digital portfolio of Tristan McKinnon, a data engineer and data educator.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://tr9800a.github.io" # the base hostname & protocol for your site
 
-theme: jekyll-theme-cayman
-
 # Build settings
 markdown: kramdown
 
-# Exclude the Gemfile and node_modules from being processed
+# Exclude the Gemfile, node_modules, and design docs from being processed
 exclude:
   - Gemfile
   - Gemfile.lock
   - vendor
   - node_modules
+  - docs
 
 # Custom CSS and JS
 sass:
@@ -24,3 +23,9 @@ sass:
   css_dir: assets/css
   load_paths:
     - _sass
+
+collections:
+  projects:
+    output: false
+  talks:
+    output: false
