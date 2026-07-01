@@ -76,12 +76,11 @@ All entries from `_talks/` collection, reverse-chronological. Content confirmed/
 
 7. **Elsevier book chapter** — Chapter 15, "Synergistic Pedagogy: Integrating AI Collaborators into Data Science Education," in *Generative AI Risks and Benefits within Human-Machine Teams* (Tristan McKinnon, corresponding author). Publication forthcoming (expected August 2026) — list as "Forthcoming 2026" until a public link exists.
 
-**Writing** (same page, own subsection): 5 featured LinkedIn articles + a link to the full LinkedIn articles feed:
-- "Identity-Per-Transaction: What It Is and Why It Matters"
-- "Real-Time Fraud Detection: Architecture Patterns for Fintech"
-- "Ethical Considerations in Data Engineering and AI: Building Systems That Serve Everyone"
-- "Real-Time Data Processing with Kafka and Stream Processing: Building the Backbone of Modern Applications"
-- "GraphQL: Simplifying Data Queries for Modern Applications"
+**Writing** (same page, own subsection): 4 featured LinkedIn articles + a link to the full LinkedIn articles feed. A 5th candidate ("Real-Time Data Processing with Kafka...") could not be verified under Tristan's byline via search and was dropped rather than risk a fabricated link:
+- "Identity-Per-Transaction: What It Is and Why It Matters" — `https://www.linkedin.com/pulse/identity-per-transaction-what-why-matters-tristan-mckinnon-s1ucc`
+- "Real-Time Fraud Detection: Architecture Patterns for Fintech" — `https://www.linkedin.com/pulse/real-time-fraud-detection-architecture-patterns-fintech-mckinnon-kqo0c`
+- "Ethical Considerations in Data Engineering and AI: Building Systems That Serve Everyone" — `https://www.linkedin.com/pulse/ethical-considerations-data-engineering-ai-building-systems-mckinnon-y4scc`
+- "GraphQL: Simplifying Data Queries for Modern Applications" — `https://www.linkedin.com/pulse/graphql-simplifying-data-queries-modern-applications-tristan-mckinnon-ztsyc`
 
 Note: these URLs were found via web search, not verified by direct fetch (LinkedIn blocks scraping). Tristan should spot-check the links after the content is drafted, before the site goes live.
 
