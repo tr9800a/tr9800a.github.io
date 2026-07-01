@@ -1,0 +1,8 @@
+<article class="card talk-card">
+  <p class="card__eyebrow">
+    {{ include.talk.venue }}{% if include.talk.date %} · {{ include.talk.date | date: "%B %-d, %Y" }}{% endif %}
+  </p>
+  <h3 class="card__title">{{ include.talk.title }}</h3>
+  <p class="card__summary">{{ include.talk.summary }}</p>
+  {% if include.talk.link %}<a class="card__link" href="{{ include.talk.link }}" target="_blank" rel="noopener">Learn more →</a>{% endif %}
+</article>
