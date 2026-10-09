@@ -7,5 +7,5 @@ summary: >-
 tags: [Python, Security, PyPI]
 repo_url: https://github.com/deterministic-systems-lab/pymayfly
 org: deterministic-systems-lab
-featured_order: 1
+featured_order: 2
 ---

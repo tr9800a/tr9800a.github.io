@@ -8,5 +8,5 @@ summary: >-
 tags: [Go, Unreal Engine, LLM]
 repo_url: https://github.com/tr9800a/aetherforge
 org: tr9800a
-featured_order: 2
+featured_order: 3
 ---

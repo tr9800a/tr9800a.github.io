@@ -20,9 +20,9 @@ title: Home
     <a href="{{ '/projects/' | relative_url }}">See all →</a>
   </div>
   <div class="card-grid">
-  {% assign featured_projects = site.projects | sort: "featured_order" | slice: 0, 3 %}
+  {% assign featured_projects = site.projects | sort: "featured_order" | slice: 0, 2 %}
   {% for project in featured_projects %}
-    {% include project-card.html project=project %}
+    {% include project-card.html project=project wide=forloop.first %}
   {% endfor %}
   </div>
 </section>

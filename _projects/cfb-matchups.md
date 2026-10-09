@@ -7,5 +7,5 @@ summary: >-
 tags: [Python, Graph Theory, Analytics]
 repo_url: https://github.com/tr9800a/cfb-matchups
 org: tr9800a
-featured_order: 5
+featured_order: 6
 ---
